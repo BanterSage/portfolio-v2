@@ -250,7 +250,7 @@ export function Page() {
 								<Title order={4}>Service Associate</Title>
 								<Text size="sm" c="dimmed">Walmart • January 2022 - Present</Text>
 								<Text mt="xs" maw={700} ta="center">
-								  Fill Space
+									Short description of your role and responsibilities.
 								</Text>
 								<Group gap="xs" justify="center">
 									<Badge variant="light">React</Badge>
@@ -265,7 +265,7 @@ export function Page() {
 								<Title order={4}>Urban & Regional Planning</Title>
 								<Text size="sm" c="dimmed">Mohawk College • September 2023 - Present</Text>
 								<Text mt="xs" maw={700} ta="center">
-								  Fill Space
+									Short description of your education and focus areas.
 								</Text>
 							</Stack>
 						</Stack>
