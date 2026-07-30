@@ -14,7 +14,7 @@
   "dependencies": {
     "@mantine/core": "^8.3.15",
     "@mantine/hooks": "^8.3.15",
-    "@mantine/modals": "^9.4.1",
+    "@mantine/modals": "^8.3.15",
     "@tabler/icons-react": "^3.45.0",
     "@types/react": "^19.2.14",
     "lucide-react": "^0.575.0",
