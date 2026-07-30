@@ -35,3 +35,15 @@
     background: rgba(255, 255, 255, 0.08);
   }
 }
+
+:global([data-mantine-color-scheme="light"]) {
+  .experienceCard {
+    background: #ffffff;
+  }
+}
+
+:global([data-mantine-color-scheme="dark"]) {
+  .experienceCard {
+    background: #1a1b1e;
+  }
+}
