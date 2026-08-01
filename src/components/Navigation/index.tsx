@@ -52,7 +52,7 @@ export function Navigation() {
 				<Group align="center" justify="space-between">
 					<Text
 						className={classes.highlight}
-						c="#ff0000"
+						color="violet"
 						fw={700}
 						size="lg"
 						ml={100}
